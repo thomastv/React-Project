@@ -6,7 +6,7 @@ const App = () => {
   const expenses = [
     {
       id: 'e1',
-      title: 'Toilet Paper',
+      title: 'Chair',
       amount: 94.12,
       date: new Date(2020, 7, 14),
     },
