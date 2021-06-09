@@ -4,6 +4,8 @@ import ExpenseItem from './ExpenseItem';
 import Card from '../UI/Card';
 import './Expenses.css';
 
+//The card is a user defined element.
+
 const Expenses = (props) => {
   return (
     <Card className="expenses">
